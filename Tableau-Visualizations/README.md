@@ -2,7 +2,7 @@
 
 Este repositorio contiene dos proyectos de visualización desarrollados en Tableau:
 
-## 1. Pareto Chart: Causas de muerte en América Latina
+## 1. Pareto Chart: Causas de muerte por área geográfica a nivel mundial durante el periodo 2015-2019.
 ![Pareto Chart](Pareto-Chart/ParetoChart.png)
 - **Descripción:** Este proyecto presenta un gráfico de Pareto interactivo que analiza las principales causas de muerte por área geográfica a nivel mundial durante el periodo 2015-2019.
 - **Destacado:** Identifica las causas que representan el 80% de las muertes totales.
