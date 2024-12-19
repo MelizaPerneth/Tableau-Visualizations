@@ -103,3 +103,5 @@ Utilizar los scripts en el directorio `/sql_scripts/queries.sql` para generar re
 - Meses donde el paciente recibió un trasplante de riñón (código de procedimiento 55.69).
 
 ---
+### Enlace
+- https://goo.su/5pJolnp
