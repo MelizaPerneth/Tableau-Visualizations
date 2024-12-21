@@ -1,4 +1,4 @@
-# Análisis y Visualización de Valores de Laboratorio ESRD
+# Análisis y Visualización de Valores de Laboratorio ESRD - https://goo.su/5pJolnp
 
 ## Descripción del Proyecto
 Este proyecto desarrolla un dashboard interactivo que visualiza indicadores clave de laboratorio para pacientes con Enfermedad Renal en Etapa Terminal (ESRD) utilizando datos sintéticos generados por Synthea. El análisis se realiza con SQL y PostgreSQL, y los resultados se presentan en gráficos interactivos para facilitar la interpretación de los datos.
