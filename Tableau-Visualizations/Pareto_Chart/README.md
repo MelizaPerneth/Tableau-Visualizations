@@ -1,26 +1,31 @@
-# Pareto Chart: Causas de Muerte a Nivel Mundial
+# Pareto Chart: Global Causes of Death
 
 ![Pareto Chart](ParetoChart.png)
 
-## Descripción
-Este proyecto presenta un gráfico de Pareto interactivo que analiza las principales causas de muerte por área geográfica a nivel mundial durante el periodo 2015-2019.
+## Project Description
+This project presents an interactive Pareto chart that analyzes the leading causes of death by geographic region worldwide during the 2015–2019 period.
 
-### Características destacadas:
-- **Análisis geográfico:** Permite seleccionar diferentes áreas del mundo para visualizar las causas principales de muerte.
-- **Aplicación del principio de Pareto:** Identifica las causas que representan el 80% de las muertes totales en cada área.
-- **Interactividad:** Los usuarios pueden ajustar el porcentaje del principio de Pareto para observar cómo cambian las causas seleccionadas.
+### Key Features
+- **Geographic Analysis**: Allows selection of different world regions to explore leading causes of death.
+- **Pareto Principle Application**: Highlights the causes that account for 80% of total deaths in each area.
+- **Interactivity**: Users can adjust the Pareto threshold to see how the selected causes change.
 
-## Archivos incluidos
-- Imagen de ejemplo: `ParetoChart.png`
-- Enlace: https://goo.su/RR9A3C
+---
 
-## Datos utilizados
-- **Fuente:** Datos de salud global obtenidos del archivo `CausesofDeath.csv`.
-- **Periodo:** 2015-2019.
-- **Cobertura geográfica:** Múltiples regiones del mundo, con la posibilidad de filtrado por área geográfica.
+## Included Files
+- Sample image: `ParetoChart.png`  
+- Interactive dashboard link: [https://goo.su/RR9A3C](https://goo.su/RR9A3C)
 
+---
 
-## Visualización
-La siguiente imagen es un ejemplo de cómo se ve el gráfico de Pareto:
+## Data Source
+- **Source**: Global health data from the file `CausesofDeath.csv`.  
+- **Time Period**: 2015–2019  
+- **Geographic Coverage**: Multiple world regions with filtering options by geographic area.
+
+---
+
+## Visualization
+Below is an example of what the Pareto chart looks like:
 
 ![Pareto Chart](ParetoChart.png)
