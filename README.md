@@ -1,2 +1,2 @@
 # Tableau-Visualizations
-Este repositorio contiene  proyectos de visualización desarrollados en Tableau
+This repository contains data visualization projects developed in Tableau.
